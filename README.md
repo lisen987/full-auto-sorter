@@ -1,4 +1,4 @@
-# FULL AUTO SORTER
+# FULL AUTO SORTER (V 0.01 Beta)
 
 ![Version](https://img.shields.io/badge/version-0.01_Beta-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -31,23 +31,36 @@ This project is written in standard C++ and requires no third-party libraries.
 
 ```bash
 g++ test.cpp -o sorter.exe
-Linux / macOS 环境 | Linux / macOS Environment
-g++ test.cpp -o sorter
-🚀 如何使用 | How to Use
-启动程序 | Start the Program
-Windows: 双击 sorter.exe 或在终端输入 ./sorter.exe
+```
 
-Linux/macOS: 在终端输入 ./sorter
+Linux / macOS 环境 | Linux / macOS Environment
+
+```bash
+g++ test.cpp -o sorter
+```
+
+---
+
+🚀 如何使用 | How to Use
+
+启动程序 | Start the Program
+
+· Windows: 双击 sorter.exe 或在终端输入 ./sorter.exe
+· Linux/macOS: 在终端输入 ./sorter
 
 命令列表 | Command List
-命令 (Command)	说明 (Description)
-[Help]	显示帮助信息 (Display help information)
-[Done]	完成输入，开始排序 (Finish input and start sorting)
-[Reverse]	开启降序排序模式 (Enable descending sorting)
-[License]	查看开源许可证信息 (View license information)
-[Exit]	直接退出程序 (Exit the program)
-数字 (Numbers)	输入任意数字，回车确认 (Input any number and press Enter)
+
+命令 (Command) 说明 (Description)
+[Help] 显示帮助信息 (Display help information)
+[Done] 完成输入，开始排序 (Finish input and start sorting)
+[Reverse] 开启降序排序模式 (Enable descending sorting)
+[License] 查看开源许可证信息 (View license information)
+[Exit] 直接退出程序 (Exit the program)
+数字 (Numbers) 输入任意数字，回车确认 (Input any number and press Enter)
+
 示例 | Example
+
+```text
  ____________________________
 |                            |
 |      FULL AUTO SORTER      |
@@ -69,8 +82,12 @@ Linux/macOS: 在终端输入 ./sorter
 15
 3.14
 -8
+```
+
+---
 
 📄 开源协议 | License
+
 本项目基于 MIT License 开源。
 This project is licensed under the MIT License.
 
@@ -78,7 +95,10 @@ This project is licensed under the MIT License.
 
 You are free to use, copy, modify, and distribute this project, provided the original copyright notice is retained. See the LICENSE.txt file for details.
 
+---
+
 👨‍💻 作者 | Author
-[Lee]
+
+· [Lee]
 
 欢迎提出建议或提交 PR！Feel free to open an issue or submit a PR!
