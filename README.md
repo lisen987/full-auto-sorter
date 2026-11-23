@@ -30,13 +30,13 @@ This project is written in standard C++ and requires no third-party libraries.
 打开命令行终端，进入项目目录，运行以下命令：
 
 ```bash
-g++ test.cpp -o sorter.exe
+g++ FULL-AUTO-SORTER.cpp -o sorter.exe
 ```
 
 Linux / macOS 环境 | Linux / macOS Environment
 
 ```bash
-g++ test.cpp -o sorter
+g++ FULL-AUTO-SORTER.cpp -o sorter
 ```
 
 ---
